@@ -1,0 +1,21 @@
+2021-03-23 19:31:57,821 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QAClickAcademy:MavenJava:0.0.1-SNAPSHOT @ C:\Users\Shilpavati\GitDemo\MavenJava\pom.xml.
+2021-03-23 19:32:00,828 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:32:00,828 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\main\resources
+2021-03-23 19:32:00,832 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:32:00,832 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\test\resources
+2021-03-23 19:32:01,920 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QAClickAcademy:MavenJava:0.0.1-SNAPSHOT @ C:\Users\Shilpavati\GitDemo\MavenJava\pom.xml.
+2021-03-23 19:32:05,728 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:32:05,729 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\main\resources
+2021-03-23 19:32:05,731 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:32:05,731 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\test\resources
+2021-03-23 19:32:08,311 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:32:08,311 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\main\resources
+2021-03-23 19:32:08,313 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:32:08,314 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\test\resources
+2021-03-23 19:38:02,164 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:38:02,165 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\main\resources
+2021-03-23 19:38:02,167 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:38:02,167 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\test\resources
+2021-03-23 19:38:16,644 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 19:38:16,644 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shilpavati\GitDemo\MavenJava\src\main\resources
+2021-03-23 19:38:16,646 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
